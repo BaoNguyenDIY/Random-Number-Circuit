@@ -1,0 +1,19 @@
+Change Component Comment : Designator=MOD? Old Comment=LTC-4624JR New Comment=
+Change Component Designator: OldDesignator=MOD? NewDesignator=LED2
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=Y11(Thach Anh 2 chan cam)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Component: Designator=Y22(Thach Anh 2 chan SMD)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Component: Designator=Y33(Thach Anh 2 chan SMD5032)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetMOD?_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetMOD?_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetMOD?_4 New Net Name=NetLED2_4
+Change Net Name : Old Net Name=NetMOD?_5 New Net Name=NetLED2_5
+Change Net Name : Old Net Name=NetMOD?_7 New Net Name=NetLED2_7
+Change Net Name : Old Net Name=NetMOD?_10 New Net Name=NetLED2_10
+Change Net Name : Old Net Name=NetMOD?_11 New Net Name=NetLED2_11
+Added Member To Class: ClassName=TET Member=Component Y11 16Mhz
+Added Member To Class: ClassName=TET Member=Component Y22 16Mhz
+Added Member To Class: ClassName=TET Member=Component Y33 16Mhz

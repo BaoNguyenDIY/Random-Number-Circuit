@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=B1-1
+Removed Pin From Net: NetName=NetB1_2 Pin=B1-2
+Removed Pin From Net: NetName=NetB1_2 Pin=B2-1
+Removed Pin From Net: NetName=GND Pin=B2-2
+Added Component: Designator=B1(16340base)
+Added Component: Designator=B2(16340base)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2

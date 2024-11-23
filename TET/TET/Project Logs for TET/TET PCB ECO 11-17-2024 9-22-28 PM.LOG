@@ -1,0 +1,8 @@
+Added Component: Designator=SW?(SW_70_31.5D47_TH_ST)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=TET Member=Component SW? SELF LOCK SWITCH

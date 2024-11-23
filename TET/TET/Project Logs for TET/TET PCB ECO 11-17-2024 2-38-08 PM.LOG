@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PF1 Pin=Y1-1
+Removed Pin From Net: NetName=PF0 Pin=Y1-2
+Removed Member From Class: ClassName=TET Member=Y11
+Removed Member From Class: ClassName=TET Member=Y22
+Removed Member From Class: ClassName=TET Member=Y33
+Added Component: Designator=Y1(Thach Anh 2 chan SMD)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PF1 Pin=Y1-1
+Added Pin To Net: NetName=PF0 Pin=Y1-2

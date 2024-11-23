@@ -1,0 +1,64 @@
+Added Component: Designator=MOD?(LED-3DIGIT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTC-4624JR/Lite-On+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTC-4624JR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTC-4624JR/Lite-On+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP794W45P254L1930H508Q16)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LS47N/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LS47N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74LS47N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LS47N/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=MOD?-3
+Added Pin To Net: NetName=PA7 Pin=MOD?-8
+Added Pin To Net: NetName=PA6 Pin=MOD?-9
+Added Pin To Net: NetName=PA5 Pin=MOD?-12
+Added Pin To Net: NetName=PA2 Pin=U?-1
+Added Pin To Net: NetName=PA3 Pin=U?-2
+Added Pin To Net: NetName=NetR5_1 Pin=U?-3
+Added Pin To Net: NetName=NetR5_1 Pin=U?-4
+Added Pin To Net: NetName=NetR5_1 Pin=U?-5
+Added Pin To Net: NetName=PA4 Pin=U?-6
+Added Pin To Net: NetName=PA1 Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=5V Pin=U?-16
+Added Pin To Net: NetName=NetMOD?_1 Pin=MOD?-1
+Added Pin To Net: NetName=NetMOD?_1 Pin=U?-9
+Added Net: Name=NetMOD?_1
+Added Pin To Net: NetName=NetMOD?_2 Pin=MOD?-2
+Added Pin To Net: NetName=NetMOD?_2 Pin=U?-10
+Added Net: Name=NetMOD?_2
+Added Pin To Net: NetName=NetMOD?_4 Pin=MOD?-4
+Added Pin To Net: NetName=NetMOD?_4 Pin=U?-11
+Added Net: Name=NetMOD?_4
+Added Pin To Net: NetName=NetMOD?_5 Pin=MOD?-5
+Added Pin To Net: NetName=NetMOD?_5 Pin=U?-14
+Added Net: Name=NetMOD?_5
+Added Pin To Net: NetName=NetMOD?_7 Pin=MOD?-7
+Added Pin To Net: NetName=NetMOD?_7 Pin=U?-12
+Added Net: Name=NetMOD?_7
+Added Pin To Net: NetName=NetMOD?_10 Pin=MOD?-10
+Added Pin To Net: NetName=NetMOD?_10 Pin=U?-15
+Added Net: Name=NetMOD?_10
+Added Pin To Net: NetName=NetMOD?_11 Pin=MOD?-11
+Added Pin To Net: NetName=NetMOD?_11 Pin=U?-13
+Added Net: Name=NetMOD?_11
+Added Member To Class: ClassName=TET Member=Component C1 20pF
+Added Member To Class: ClassName=TET Member=Component C2 20pF
+Added Member To Class: ClassName=TET Member=Component C3 104
+Added Member To Class: ClassName=TET Member=Component C4 104
+Added Member To Class: ClassName=TET Member=Component C5 104
+Added Member To Class: ClassName=TET Member=Component C6 104
+Added Member To Class: ClassName=TET Member=Component C7 104
+Added Member To Class: ClassName=TET Member=Component L1
+Added Member To Class: ClassName=TET Member=Component MOD? LTC-4624JR
+Added Member To Class: ClassName=TET Member=Component R1 20R
+Added Member To Class: ClassName=TET Member=Component R2 1K
+Added Member To Class: ClassName=TET Member=Component R3 10K
+Added Member To Class: ClassName=TET Member=Component U? SN74LS47N

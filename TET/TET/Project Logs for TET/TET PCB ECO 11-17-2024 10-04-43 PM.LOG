@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DCIN Pin=SW1-2
+Removed Pin From Net: NetName=NetB1_1 Pin=SW1-3
+Added Component: Designator=SW1(slidingswitch)
+Added Pin To Net: NetName=DCIN Pin=SW1-2
+Added Pin To Net: NetName=NetB1_1 Pin=SW1-3
+Added Member To Class: ClassName=TET Member=Component SW1

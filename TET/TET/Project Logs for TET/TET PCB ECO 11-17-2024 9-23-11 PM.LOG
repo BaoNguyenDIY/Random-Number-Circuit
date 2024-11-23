@@ -1,0 +1,7 @@
+Added Component: Designator=SW?(SW_2ARS_TH)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRB23A2BBBNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "SRB23A2BBBNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
